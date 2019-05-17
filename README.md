@@ -3,3 +3,4 @@ Synchronizer Token Patterns example
 |Username : Shanith | Password : 123 |
 IT17015622
 K. Shanith Rathnayaka
+Add to htdocs in XAMPP folder!!!!
